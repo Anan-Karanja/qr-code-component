@@ -38,6 +38,7 @@ body {
     height: 499px;
     padding: 16px;
     border-radius: 20px;
+    box-shadow: 0 25px 25px 0 #00000046 ;
 }
 
 .container img {
